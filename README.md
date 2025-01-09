@@ -1,4 +1,4 @@
 # DemoRespository
 This is demo repo
 <br>
-King is always King
+King is always King.
